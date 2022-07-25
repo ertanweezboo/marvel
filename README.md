@@ -15,4 +15,4 @@ npm run build
 ```
 
 ## Deployed URL
-[https://marvel-api.vercel.app/](https://marvel-api.vercel.app/ "https://marvel-api.vercel.app/")
+[https://marvel100.vercel.app/](https://marvel100.vercel.app/ "marvel100.vercel.app/")
